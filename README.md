@@ -1,7 +1,14 @@
 # PyWiFiman
 
+<div align="center">
 
-## 🚀 Features
+![PyWiFiman Banner](wifi_app/assets/logo.png)
+<!-- You can replace this with a real screenshot later -->
+
+**A modern, Python-based network analysis tool for Windows.**  
+Inspired by Ubiquiti WiFiman, built with PySide6.
+
+</div>## 🚀 Features
 
 - **Wi-Fi Scanner**: Visualize surrounding networks with a real-time channel overlap graph. Detailed view of SSID, BSSID, Signal strength (dBm/% ), Channel, and Security.
 - **Local Network Discovery**: Scan your LAN to discover connected devices (IP, MAC, Hostname). Uses ARP scanning (via Scapy) for accuracy.
