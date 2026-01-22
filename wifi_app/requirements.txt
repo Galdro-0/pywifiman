@@ -1,0 +1,7 @@
+PySide6
+speedtest-cli
+matplotlib
+scapy
+pandas
+requests
+psutil
